@@ -10,22 +10,30 @@ The Streamlit Indian Startup Funding Data Visualization project is a personal pr
 
 The dataset used in this project is sourced from Kaggle and is provided by Sudalai Rajkumar. The dataset contains information about Indian startup funding, including details about the startups, investors, funding amounts, sectors, and more. 
 
+# Section 1: Overall Analysis
 
-Section 1: Overall Analysis
 The Overall Analysis section provides an overview of the startup funding ecosystem in India. It includes the following components:
 
-Month by Month Analysis: This component displays key metrics such as total investments made so far, maximum investment, average investment, and total funded startups.
-Month-on-Month Line Graphs: This component presents line graphs for the total amount of funding and total funded startups month-on-month.
-Total Funded Indian Startups: This line graph illustrates the total number of funded Indian startups month-on-month.
-Top 10 Most Funded Sectors: This horizontal bar graph shows the top 10 sectors with the highest funding amounts between 2015 and 2020.
-Top Investors: This horizontal bar graph showcases the top investors based on
-their investment values.
+**Month by Month Analysis** : This component displays key metrics such as total investments made so far, maximum investment, average investment, and total funded startups.
 
-Top 10 Most Funded Startups: This 3D bar graph represents the top 10 most funded startups in startup funding year-on-year.
-Top 10 Most Funded Cities: This horizontal bar graph displays the top 10 cities with the most startup funding.
-Top 10 Most Funded Round Types: This horizontal bar graph presents the top 10 round types in startup funding.
-Heatmap: This heatmap visualizes the funding amount by year and month.
-Section 2: Startup Analysis
+**Month-on-Month Line Graphs**: This component presents line graphs for the total amount of funding and total funded startups month-on-month.
+
+**Total Funded Indian Startups**: This line graph illustrates the total number of funded Indian startups month-on-month.
+
+**Top 10 Most Funded Sectors**: This horizontal bar graph shows the top 10 sectors with the highest funding amounts between 2015 and 2020.
+
+**Top Investor**s: This horizontal bar graph showcases the top investors based on their investment values.
+
+**Top 10 Most Funded Startups**: This 3D bar graph represents the top 10 most funded startups in startup funding year-on-year.
+
+**Top 10 Most Funded Cities**: This horizontal bar graph displays the top 10 cities with the most startup funding.
+
+**Top 10 Most Funded Round Types**: This horizontal bar graph presents the top 10 round types in startup funding.
+
+**Heatmap**: This heatmap visualizes the funding amount by year and month.
+
+# Section 2: Startup Analysis
+
 The Startup Analysis section allows users to select a specific startup from a dropdown menu and provides detailed insights about that startup. The section includes:
 
 Selected Startup Information: This component displays various metrics for the selected startup, including total investments, sector, subsector, funding stage, and investors.
