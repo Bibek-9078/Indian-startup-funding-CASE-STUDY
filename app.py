@@ -10,8 +10,7 @@ Dependencies:
 
 Note: The `analysis` and `components` are imported from the `analysis` and `components` module.
 
-Author: Abhishek Gupta
-Github: https://github.com/1abhi6
+Author: Bibek Kumar panda 
 """
 
 import streamlit as st
