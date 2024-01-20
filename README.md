@@ -113,5 +113,6 @@ The Investor Analysis section enables users to select a specific investor from a
 3. The website will load, displaying the Overall Analysis section by default.
 4. Explore the different components and visualizations within each section.
 5. To select a specific startup or investor for analysis, use the dropdown menus provided.
-6. Gain insights and explore the interactive visualizations to understand the Indian startup funding landscape.
+6. Gain insights and explore the interactive visualizations to understand the Indian startup funding
 
+[DEMO LINK ](https://indian-startup-funding-case-study.streamlit.app/)
