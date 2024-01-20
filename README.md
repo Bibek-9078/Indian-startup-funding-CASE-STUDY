@@ -33,7 +33,7 @@ To run the project locally, follow the steps below:
 1. Clone the GitHub repository:
 
    ```
-   git clone https://github.com/1abhi6/Streamlit-Indian-Startup-Funding.git
+   git clone https://github.com/Bibek-9078/Indian-startup-funding-CASE-STUDY
    ```
 
 2. Navigate to the project directory:
