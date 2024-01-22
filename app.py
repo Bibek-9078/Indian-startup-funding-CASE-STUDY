@@ -67,7 +67,7 @@ class Main:
         Render the home component based on the user's selection.
         """
         # Page configuration
-        st.set_page_config(layout='wide', page_title="Abhi's Startup Analysis", page_icon='📊')
+        st.set_page_config(layout='wide', page_title="Bibek Startup Analysis", page_icon='📊')
         st.sidebar.title(
             'Startup Funding analysis',
             help='Note: Data for Indian startups (2015-2020)'
