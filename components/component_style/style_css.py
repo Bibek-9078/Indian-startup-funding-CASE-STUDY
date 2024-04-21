@@ -1,8 +1,8 @@
 """
 CSS for custom styling
 
-Author: Abhishek Gupta
-Github: https://github.com/1abhi6
+Author: Bibek kumar panda
+Github: https://github.com/Bibek-9078
 """
 
 PADDING_TOP = """
