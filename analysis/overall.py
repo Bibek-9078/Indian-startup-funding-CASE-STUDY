@@ -11,8 +11,8 @@ Dependencies:
 
 Note: The `startup` dataset is imported from the `dataset` module.
 
-Author: Abhishek Gupta
-Github: https://github.com/1abhi6
+Author: Bibek kumar panda
+Github: https://github.com/Bibek-9078
 """
 
 import pandas as pd
