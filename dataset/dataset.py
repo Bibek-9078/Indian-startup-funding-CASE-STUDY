@@ -7,8 +7,8 @@ data processing operations on it.
 Dependencies:
 - pandas (pd)
 
-Author: Abhishek Gupta
-Github: https://github.com/1abhi6
+Author: Bibek kumar panda
+Github: https://github.com/Bibek-9078
 """
 
 import pandas as pd
